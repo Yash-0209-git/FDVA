@@ -1,0 +1,31 @@
+movie_id,title,genre,platform,release_year,director,runtime_min,imdb_rating,box_office_musd,budget_musd,country,language
+M001,Inception,Sci-Fi,Netflix,"2010,2020",Christopher Nolan,148,8.8,870,839,USA,English
+M002,The Dark Knight,Action,Prime Video,"2008,2019",Christopher Nolan,152,9.0,1005,534,USA,English
+M003,Parasite,Thriller,Netflix,"2019,2020",Bong Joon Ho,132,8.5,258,15,South Korea,Korean
+M004,RRR,Action,Netflix,"2022,2023",S. S. Rajamouli,182,7.8,166,72,India,Telugu
+M005,Dangal,Drama,Disney+ Hotstar,"2016,2017",Nitesh Tiwari,161,8.3,311,15,India,Hindi
+M006,3 Idiots,Comedy,Prime Video,"2009,2021",Rajkumar Hirani,170,8.4,90,17,India,Hindi
+M007,Drishyam,Crime,JioHotstar,"2015,2022",Nishikant Kamat,163,8.2,67,2,India,Hindi
+M008,Jawan,Action,Netflix,"2023,2023",Atlee,169,7.0,116,13,India,Hindi
+M009,Barbie,Comedy,Max,"2023,2024",Greta Gerwig,114,6.8,636,1450,USA,English
+M010,Oppenheimer,Drama,Prime Video,"2023,2024",Christopher Nolan,180,8.6,976,952,USA,English
+M011,Spider-Man: No Way Home,Action,Netflix,"2021,2022",Jon Watts,148,8.2,2000,1250,USA,English
+M012,Interstellar,Sci-Fi,Prime Video,"2014,2020",Christopher Nolan,169,8.7,701,677,USA,English
+M013,The Shawshank Redemption,Drama,Max,"1994,2020",Frank Darabont,142,9.3,28,73,USA,English
+M014,3 Idiots,Comedy,Netflix,"2009,2022",Rajkumar Hirani,170,8.4,90,17,India,Hindi
+M015,Kantara,Drama,Prime Video,"2022,2022",Rishab Shetty,148,8.2,55,4,India,Kannada
+M016,Vikram,Action,Disney+ Hotstar,"2022,2022",Lokesh Kanagaraj,174,8.3,70,7,India,Tamil
+M017,Jai Bhim,Drama,Prime Video,"2021,2021",T. J. Gnanavel,164,9.0,0,0,India,Tamil
+M018,K.G.F: Chapter 2,Action,Amazon Prime,"2022,2023",Prashanth Neel,168,8.3,120,8,India,Kannada
+M019,The Batman,Action,Max,"2022,2022",Matt Reeves,176,7.8,772,770,USA,English
+M020,Everything Everywhere All at Once,Sci-Fi,Prime Video,"2022,2023",Daniel Kwan & Daniel Scheinert,139,7.7,143,77,USA,English
+M021,Andhadhun,Crime,Netflix,"2018,2020",Sriram Raghavan,139,8.2,45,2,India,Hindi
+M022,Super Deluxe,Drama,Netflix,"2019,2020",Thiagarajan Kumararaja,176,8.3,0,0,India,Tamil
+M023,Leo,Action,Netflix,"2023,2024",Lokesh Kanagaraj,164,7.2,620,12,India,Tamil
+M024,12th Fail,Drama,JioHotstar,"2023,2024",Vidhu Vinod Chopra,147,9.0,0,0,India,Hindi
+M025,Kantara: A Legend,Drama,Amazon Prime,"2022,2023",Rishab Shetty,148,8.2,55,4,India,Kannada
+M026,Avatar: The Way of Water,Sci-Fi,Disney+ Hotstar,"2022,2023",James Cameron,192,7.5,2320,684,USA,English
+M027,Top Gun: Maverick,Action,Prime Video,"2022,2023",Joseph Kosinski,130,8.2,1495,719,USA,English
+M028,Toy Story 4,Animation,Disney+ Hotstar,"2019,2020",Josh Cooley,100,7.7,1073,434,USA,English
+M029,Coco,Animation,Disney+ Hotstar,"2017,2020",Lee Unkrich,105,8.4,807,807,USA,English
+M030,Frozen II,Animation,Disney+ Hotstar,"2019,2020",Chris Buck & Jennifer Lee,103,6.8,1450,477,USA,English
